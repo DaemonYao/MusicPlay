@@ -10,15 +10,16 @@
 
 ## :dancer: 主界面效果截图
 
-
+![image](https://github.com/Yao-boy/MusicPlay/blob/main/public/1.PNG)
 
 ## :earth_africa: 排行榜页面截图
 
-
+![image](https://github.com/Yao-boy/MusicPlay/blob/main/public/2.PNG)
 
 ## :fallen_leaf: 登录页面截图
 
-
+![image](https://github.com/Yao-boy/MusicPlay/blob/main/public/3.PNG)
 
 ## :rabbit: 歌单详情页面截图
 
+![image](https://github.com/Yao-boy/MusicPlay/blob/main/public/4.PNG)
